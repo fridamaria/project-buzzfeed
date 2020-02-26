@@ -4,11 +4,11 @@ The first project of the Technigo boot camp. The task was to create a small webs
 
 ## Learning objectives
 
-* How to structure webpages using HTML
-* How to style webpages using basic CSS
-* How to use a code editor
-* How to work in a team using mob-programming
+* Structure webpages using HTML
+* Style webpages using basic CSS
+* Use a code editor
+* Work in a team using mob-programming
 
 ## View it live
 
-View the site here:
+View the site here: https://fridamaria-project-buzzfeed.netlify.com/
