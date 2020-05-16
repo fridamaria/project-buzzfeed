@@ -9,6 +9,11 @@ The first project of the Technigo boot camp. The task was to create a small webs
 * Use a code editor
 * Work in a team using mob-programming
 
+## Tech
+
+* HTML5
+* CSS3
+
 ## View it live
 
-View the site here: https://fridamaria-project-buzzfeed.netlify.com/
+https://fridamaria-project-buzzfeed.netlify.app/
